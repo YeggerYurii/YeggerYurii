@@ -37,9 +37,11 @@ Header
 </div>
 
 
+### My work and artifacts 
 
-
-
-
-
-My work and artifacts 
+ <h3 align="center"> To cooperate: </h3>
+  <p align="center">
+  <a href= "https://t.me/TrackingYurii"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+  <a href= "https://www.linkedin.com/in/yurii-fedorenko-0b8623174/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+  <a href= "mailto:fedorenkoabrikos@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p> 
